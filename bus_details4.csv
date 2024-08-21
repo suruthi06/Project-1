@@ -1,0 +1,724 @@
+route_name,route_link,busname,bustype,departing_time,duration,reaching_time,star_rating,price,seats_available
+Patiala to Delhi,https://www.redbus.in/bus-tickets/patiala-to-delhi,PEPSU (Punjab) - 66687,Volvo AC Seater (2+2),2024-08-19 18:10:00,06h 09m,2024-08-20 00:19:00,3.7,692.0,12
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,PEPSU (Punjab) - 67096,Volvo AC Seater (2+2),2024-08-19 16:15:00,07h 00m,2024-08-19 23:15:00,4.2,845.0,13
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,PEPSU (Punjab) - 67135,Volvo AC Seater (2+2),2024-08-19 17:35:00,08h 00m,2024-08-20 01:35:00,4.1,845.0,30
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),2024-08-19 19:50:00,07h 35m,2024-08-20 03:25:00,3.2,845.0,23
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),2024-08-19 20:50:00,07h 00m,2024-08-20 03:50:00,4.7,845.0,11
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,PEPSU (Punjab) - 67164,Volvo AC Seater (2+2),2024-08-19 21:50:00,05h 59m,2024-08-20 03:49:00,4.1,845.0,1
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 22:27:00,06h 33m,2024-08-20 05:00:00,4.6,1370.0,17
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Laxmi holidays,VE A/C Sleeper (2+1),2024-08-19 23:55:00,06h 50m,2024-08-20 06:45:00,4.4,1600.0,26
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:55:00,06h 10m,2024-08-20 06:05:00,4.6,1524.0,21
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,AdArmaan Tour & Travels,A/C Seater / Sleeper (2+1),2024-08-19 22:50:00,07h 10m,2024-08-20 06:00:00,3.3,719.0,12
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 22:45:00,07h 35m,2024-08-20 06:20:00,4.8,2758.0,1
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,IntrCity SmartBus,AC Sleeper (2+1),2024-08-19 22:50:00,06h 55m,2024-08-20 05:45:00,4.5,1547.0,16
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:40:00,05h 50m,2024-08-20 05:30:00,4.6,1446.0,16
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,NueGo,Electric A/C Seater (2+2),2024-08-19 23:15:00,05h 50m,2024-08-20 05:05:00,3.8,1118.0,7
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 23:40:00,06h 20m,2024-08-20 06:00:00,4.5,1437.0,20
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,NueGo,Electric A/C Seater (2+2),2024-08-19 18:00:00,05h 50m,2024-08-19 23:50:00,3.4,966.0,8
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),2024-08-19 15:25:00,18h 35m,2024-08-20 10:00:00,0.0,1080.0,12
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,NueGo,Electric A/C Seater (2+2),2024-08-19 11:15:00,05h 35m,2024-08-19 16:50:00,3.2,724.0,9
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 23:45:00,06h 15m,2024-08-20 06:00:00,4.4,2525.0,8
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 23:25:00,05h 55m,2024-08-20 05:20:00,3.8,1079.0,4
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,New Navyug Travels,A/C Sleeper (2+1),2024-08-19 23:00:00,06h 30m,2024-08-20 05:30:00,3.6,1299.0,4
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,NueGo,Electric A/C Seater (2+2),2024-08-19 13:00:00,05h 50m,2024-08-19 18:50:00,2.8,1071.0,1
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 23:30:00,05h 50m,2024-08-20 05:20:00,3.9,1124.0,8
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Classic Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:30:00,07h 00m,2024-08-20 06:30:00,2.5,389.0,23
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Classic Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:55:00,07h 00m,2024-08-20 06:55:00,2.6,389.0,30
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 23:58:00,06h 22m,2024-08-20 06:20:00,3.2,1169.0,20
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:55:00,05h 20m,2024-08-20 05:15:00,3.6,1099.0,10
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 23:59:00,06h 31m,2024-08-20 06:30:00,2.3,1079.0,6
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 23:57:00,06h 53m,2024-08-20 06:50:00,2.5,1034.0,6
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 23:59:00,05h 56m,2024-08-20 05:55:00,4.2,1017.0,18
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:30:00,07h 00m,2024-08-20 05:30:00,4.1,1500.0,40
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,NueGo,Electric A/C Seater (2+2),2024-08-19 00:05:00,05h 50m,2024-08-20 05:55:00,3.1,914.0,14
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 23:58:00,06h 07m,2024-08-20 06:05:00,3.4,1079.0,16
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Prince Travels,A/C Seater / Sleeper (2+2),2024-08-19 00:50:00,05h 10m,2024-08-20 06:00:00,3.0,1099.0,28
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 23:40:00,05h 30m,2024-08-20 05:10:00,2.7,999.0,19
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 23:44:00,05h 56m,2024-08-20 05:40:00,4.2,1109.0,14
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:00:00,07h 00m,2024-08-20 05:00:00,4.1,1500.0,32
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 17:50:00,07h 40m,2024-08-20 01:30:00,2.2,833.0,31
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Travel Point,A/C Seater / Sleeper (2+2),2024-08-19 23:25:00,05h 55m,2024-08-20 05:20:00,3.5,1044.0,35
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Khurana Bus Service,Volvo A/C (2+2),2024-08-19 20:35:00,07h 05m,2024-08-20 03:40:00,3.1,1200.0,21
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Lucky Travels,Bharat Benz A/C Seater / Sleeper (2+2),2024-08-19 23:59:00,06h 16m,2024-08-20 06:15:00,2.7,798.0,39
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,PEPSU (Punjab) - 67123,Volvo AC Seater (2+2),2024-08-19 13:45:00,06h 10m,2024-08-19 19:55:00,3.7,845.0,35
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,PEPSU (Punjab) - 67154,Volvo AC Seater (2+2),2024-08-19 16:50:00,06h 00m,2024-08-19 22:50:00,3.9,845.0,36
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,PEPSU (Punjab) - 67132,Volvo AC Seater (2+2),2024-08-19 17:40:00,06h 00m,2024-08-19 23:40:00,2.6,845.0,39
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),2024-08-19 21:50:00,07h 00m,2024-08-20 04:50:00,4.0,845.0,39
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,RSRTC - 170038,Express Non AC Seater 2+3,2024-08-19 16:00:00,07h 00m,2024-08-19 23:00:00,2.2,395.0,42
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,RSRTC - 156675,Express Non AC Seater 2+3,2024-08-19 22:30:00,06h 45m,2024-08-20 05:15:00,2.2,391.0,37
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 23:30:00,05h 54m,2024-08-20 05:24:00,4.6,910.0,19
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:20:00,06h 40m,2024-08-20 05:00:00,4.6,925.0,19
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:45:00,07h 30m,2024-08-20 05:15:00,4.6,775.0,27
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,AdGolden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 22:50:00,06h 16m,2024-08-20 05:06:00,4.1,699.0,20
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:30:00,06h 25m,2024-08-20 02:55:00,4.8,606.0,23
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Laxmi holidays,VE A/C Sleeper (2+1),2024-08-19 23:00:00,07h 00m,2024-08-20 06:00:00,4.3,1200.0,20
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:40:00,07h 00m,2024-08-20 06:40:00,4.2,1081.0,24
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,AdCity Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 23:15:00,06h 35m,2024-08-20 05:50:00,4.7,619.0,23
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 20:45:00,07h 35m,2024-08-20 04:20:00,4.9,1076.0,22
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:30:00,06h 40m,2024-08-20 06:10:00,4.2,1080.0,25
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-08-19 23:05:00,06h 20m,2024-08-20 05:25:00,4.2,514.0,24
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:45:00,07h 15m,2024-08-20 06:00:00,4.4,1171.0,25
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:15:00,08h 30m,2024-08-20 04:45:00,4.1,910.0,21
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:30:00,07h 25m,2024-08-20 04:55:00,4.6,804.0,25
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,AC Sleeper (2+1),2024-08-19 22:00:00,08h 10m,2024-08-20 06:10:00,4.3,1183.0,17
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 22:31:00,06h 30m,2024-08-20 05:01:00,4.0,960.0,20
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Shri Bawa Lal Tour and Travels,A/C Seater/Sleeper (2+1),2024-08-19 23:00:00,06h 00m,2024-08-20 05:00:00,0.0,2000.0,48
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 21:30:00,08h 20m,2024-08-20 05:50:00,4.5,960.0,18
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:15:00,07h 30m,2024-08-20 05:45:00,4.6,937.0,21
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NueGo,Electric A/C Seater (2+2),2024-08-19 13:00:00,06h 25m,2024-08-19 19:25:00,3.5,762.0,6
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,New Navyug Travels,A/C Sleeper (2+1),2024-08-19 22:45:00,05h 45m,2024-08-20 04:30:00,4.0,825.0,14
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:05:00,07h 50m,2024-08-20 05:55:00,4.5,916.0,26
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NueGo,Electric A/C Seater (2+2),2024-08-19 23:50:00,06h 25m,2024-08-20 06:15:00,2.9,553.0,12
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NueGo,Electric A/C Seater (2+2),2024-08-19 23:00:00,06h 25m,2024-08-20 05:25:00,2.7,420.0,27
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:00:00,06h 45m,2024-08-20 05:45:00,4.6,810.0,23
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),2024-08-19 22:30:00,07h 35m,2024-08-20 06:05:00,3.2,946.0,20
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 22:00:00,07h 50m,2024-08-20 05:50:00,3.6,1016.0,17
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),2024-08-19 23:40:00,05h 20m,2024-08-20 05:00:00,2.5,686.0,41
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 22:40:00,06h 06m,2024-08-20 04:46:00,3.7,699.0,14
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NueGo,Electric A/C Seater (2+2),2024-08-19 18:00:00,06h 25m,2024-08-20 00:25:00,3.4,406.0,22
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NueGo,Electric A/C Seater/Sleeper (2+1),2024-08-19 22:00:00,06h 40m,2024-08-20 04:40:00,2.7,570.0,8
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Classic Travels,A/C Seater / Sleeper (2+2),2024-08-19 12:50:00,07h 00m,2024-08-19 19:50:00,2.3,800.0,22
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:25:00,05h 35m,2024-08-20 04:00:00,3.3,600.0,36
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),2024-08-19 14:00:00,08h 05m,2024-08-19 22:05:00,2.2,509.0,45
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:50:00,06h 00m,2024-08-20 04:50:00,2.2,539.0,31
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Classic Travels,A/C Seater / Sleeper (2+2),2024-08-19 21:40:00,07h 00m,2024-08-20 04:40:00,2.2,649.0,17
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 18:30:00,09h 00m,2024-08-20 03:30:00,4.5,560.0,22
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 21:00:00,07h 50m,2024-08-20 04:50:00,4.4,921.0,14
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Travel Point,A/C Seater / Sleeper (2+2),2024-08-19 21:00:00,05h 21m,2024-08-20 02:21:00,3.5,949.0,50
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,FlixBus,A/C Sleeper (2+1),2024-08-19 22:30:00,06h 55m,2024-08-20 05:25:00,5.0,977.0,3
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),2024-08-19 23:00:00,06h 45m,2024-08-20 05:45:00,3.3,800.0,38
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:40:00,05h 20m,2024-08-20 04:00:00,3.3,600.0,13
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,CALL2TRIP,A/C Seater / Sleeper (2+2),2024-08-19 22:40:00,06h 00m,2024-08-20 04:40:00,2.9,699.0,44
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),2024-08-19 22:50:00,05h 45m,2024-08-20 04:35:00,3.3,999.0,34
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,FlixBus,A/C Sleeper (2+1),2024-08-19 21:00:00,07h 15m,2024-08-20 04:15:00,2.8,766.0,9
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:40:00,05h 20m,2024-08-20 04:00:00,2.8,647.0,29
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,MM Travels,A/C Seater / Sleeper (2+2),2024-08-19 11:55:00,07h 50m,2024-08-19 19:45:00,1.7,850.0,35
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,New National Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:00:00,06h 00m,2024-08-20 05:00:00,2.1,599.0,29
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:35:00,05h 30m,2024-08-20 05:05:00,2.3,539.0,36
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,RK Holiday,A/C Seater / Sleeper (2+2),2024-08-19 18:25:00,05h 50m,2024-08-20 00:15:00,2.8,527.0,30
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:00:00,07h 00m,2024-08-20 06:00:00,4.5,750.0,20
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),2024-08-19 22:40:00,06h 06m,2024-08-20 04:46:00,2.2,629.0,33
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),2024-08-19 13:00:00,06h 15m,2024-08-19 19:15:00,1.8,1359.0,12
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Khurana Bus Service,Bharat Benz A/C Seater (2+2),2024-08-19 23:25:00,06h 35m,2024-08-20 06:00:00,3.4,749.0,23
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Hari Das Tour &Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:35:00,05h 35m,2024-08-20 05:10:00,3.2,1199.0,38
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,RK Holiday,A/C Seater / Sleeper (2+2),2024-08-19 22:35:00,06h 00m,2024-08-20 04:35:00,2.8,474.0,32
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:40:00,06h 06m,2024-08-20 04:46:00,2.2,629.0,27
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Travel Point World LLP,A/C Seater / Sleeper (2+2),2024-08-19 22:15:00,05h 45m,2024-08-20 04:00:00,1.6,664.0,28
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,MM Travels,AC Seater (2+2),2024-08-19 13:30:00,07h 00m,2024-08-19 20:30:00,1.4,1599.0,35
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,PEPSU (Punjab) - 67096,Volvo AC Seater (2+2),2024-08-19 15:23:00,07h 52m,2024-08-19 23:15:00,4.5,954.0,14
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,PEPSU (Punjab) - 67135,Volvo AC Seater (2+2),2024-08-19 15:53:00,09h 42m,2024-08-20 01:35:00,2.6,954.0,30
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),2024-08-19 18:35:00,08h 50m,2024-08-20 03:25:00,4.3,954.0,24
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),2024-08-19 19:30:00,07h 19m,2024-08-20 02:49:00,4.4,954.0,18
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,PEPSU (Punjab) - 67164,Volvo AC Seater (2+2),2024-08-19 20:20:00,08h 30m,2024-08-20 04:50:00,4.0,954.0,1
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:20:00,07h 10m,2024-08-20 06:30:00,4.7,1399.0,23
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:20:00,07h 25m,2024-08-20 04:45:00,4.5,1230.0,21
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:40:00,07h 40m,2024-08-20 06:20:00,4.5,1230.0,20
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 21:37:00,07h 23m,2024-08-20 05:00:00,4.9,1370.0,17
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Laxmi holidays,VE A/C Sleeper (2+1),2024-08-19 23:10:00,07h 35m,2024-08-20 06:45:00,4.4,1600.0,26
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:55:00,07h 10m,2024-08-20 06:05:00,4.7,1447.0,21
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:35:00,07h 25m,2024-08-20 07:00:00,4.8,1600.0,13
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 23:40:00,06h 40m,2024-08-20 06:20:00,4.2,1169.0,20
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 22:35:00,07h 25m,2024-08-20 06:00:00,4.9,2525.0,8
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,IntrCity SmartBus,AC Sleeper (2+1),2024-08-19 21:55:00,07h 50m,2024-08-20 05:45:00,4.4,1547.0,16
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),2024-08-19 14:40:00,19h 20m,2024-08-20 10:00:00,0.0,1080.0,16
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,New Navyug Travels,A/C Sleeper (2+1),2024-08-19 22:00:00,07h 30m,2024-08-20 05:30:00,4.5,1299.0,4
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-08-19 23:10:00,07h 45m,2024-08-20 06:55:00,4.4,1134.0,29
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 21:55:00,08h 25m,2024-08-20 06:20:00,4.6,2758.0,1
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 22:40:00,06h 40m,2024-08-20 05:20:00,4.2,1124.0,12
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:45:00,07h 00m,2024-08-20 06:45:00,4.1,1467.0,18
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 23:55:00,06h 00m,2024-08-20 05:55:00,3.8,1017.0,19
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:35:00,06h 55m,2024-08-20 05:30:00,4.8,1446.0,16
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Khurana Bus Service,Volvo A/C (2+2),2024-08-19 18:55:00,07h 45m,2024-08-20 02:40:00,3.6,1200.0,4
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 22:45:00,07h 15m,2024-08-20 06:00:00,4.2,1437.0,20
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 22:45:00,06h 35m,2024-08-20 05:20:00,2.7,1079.0,10
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 23:57:00,06h 33m,2024-08-20 06:30:00,2.3,1079.0,10
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),2024-08-19 23:25:00,07h 00m,2024-08-20 06:25:00,4.5,2559.0,4
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 23:55:00,06h 55m,2024-08-20 06:50:00,2.0,1034.0,6
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:45:00,05h 15m,2024-08-20 05:00:00,4.5,1830.0,18
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:40:00,07h 50m,2024-08-20 05:30:00,4.1,1500.0,40
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:35:00,05h 40m,2024-08-20 05:15:00,3.7,1099.0,10
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 23:47:00,06h 18m,2024-08-20 06:05:00,3.7,1079.0,16
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Prince Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:55:00,06h 05m,2024-08-20 06:00:00,3.0,1099.0,42
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 16:40:00,08h 50m,2024-08-20 01:30:00,2.9,1018.0,32
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:10:00,07h 50m,2024-08-20 05:00:00,4.1,1500.0,32
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 23:40:00,06h 00m,2024-08-20 05:40:00,3.8,1109.0,20
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:55:00,06h 15m,2024-08-20 05:10:00,3.7,999.0,19
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),2024-08-19 23:58:00,06h 02m,2024-08-20 06:00:00,2.7,1499.0,37
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Lucky Travels,Bharat Benz A/C Seater / Sleeper (2+2),2024-08-19 23:55:00,06h 20m,2024-08-20 06:15:00,2.7,798.0,41
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),2024-08-19 21:45:00,08h 15m,2024-08-20 06:00:00,2.4,809.0,19
+Phagwara to Delhi,https://www.redbus.in/bus-tickets/phagwara-to-delhi,Khurana Bus Service,Volvo A/C (2+2),2024-08-19 19:55:00,07h 45m,2024-08-20 03:40:00,3.6,1100.0,25
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,PEPSU (Punjab) - 67096,Volvo AC Seater (2+2),2024-08-19 15:03:00,08h 12m,2024-08-19 23:15:00,3.6,1007.0,13
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,PEPSU (Punjab) - 67135,Volvo AC Seater (2+2),2024-08-19 15:33:00,10h 02m,2024-08-20 01:35:00,3.2,1007.0,30
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),2024-08-19 18:10:00,09h 15m,2024-08-20 03:25:00,4.1,1007.0,23
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),2024-08-19 19:10:00,07h 39m,2024-08-20 02:49:00,4.2,1007.0,12
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:10:00,07h 20m,2024-08-20 06:30:00,4.8,1399.0,23
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-08-19 22:50:00,08h 05m,2024-08-20 06:55:00,4.7,1105.0,29
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 23:26:00,07h 02m,2024-08-20 06:28:00,4.6,1090.0,16
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,AdNew Navyug Travels,A/C Sleeper (2+1),2024-08-19 21:50:00,07h 40m,2024-08-20 05:30:00,4.0,1299.0,4
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:05:00,07h 40m,2024-08-20 04:45:00,4.5,1230.0,21
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 22:30:00,07h 30m,2024-08-20 06:00:00,4.6,1437.0,19
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 21:11:00,07h 49m,2024-08-20 05:00:00,4.4,1370.0,17
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:25:00,07h 35m,2024-08-20 07:00:00,4.5,1600.0,13
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Laxmi holidays,VE A/C Sleeper (2+1),2024-08-19 23:05:00,07h 40m,2024-08-20 06:45:00,4.4,1600.0,26
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,AC Sleeper (2+1),2024-08-19 21:30:00,08h 15m,2024-08-20 05:45:00,4.5,1547.0,16
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:45:00,07h 20m,2024-08-20 06:05:00,4.4,1524.0,21
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 23:30:00,06h 50m,2024-08-20 06:20:00,4.4,1169.0,20
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),2024-08-19 13:50:00,20h 10m,2024-08-20 10:00:00,0.0,1080.0,10
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:35:00,07h 45m,2024-08-20 06:20:00,4.2,1230.0,20
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:25:00,07h 05m,2024-08-20 05:30:00,4.8,1353.0,16
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:55:00,07h 35m,2024-08-20 07:30:00,4.2,1600.0,20
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:55:00,07h 20m,2024-08-20 07:15:00,4.1,1297.0,24
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 21:20:00,09h 00m,2024-08-20 06:20:00,4.2,2758.0,1
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:35:00,07h 10m,2024-08-20 06:45:00,4.0,1592.0,18
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 22:15:00,07h 45m,2024-08-20 06:00:00,4.7,2525.0,8
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,06h 50m,2024-08-20 05:20:00,3.9,1079.0,4
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,06h 50m,2024-08-20 05:20:00,4.0,1124.0,7
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 23:35:00,06h 20m,2024-08-20 05:55:00,4.7,1017.0,13
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 23:30:00,06h 35m,2024-08-20 06:05:00,4.2,1079.0,16
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 23:54:00,06h 36m,2024-08-20 06:30:00,3.6,1079.0,6
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Khurana Bus Service,Volvo A/C (2+2),2024-08-19 18:35:00,08h 05m,2024-08-20 02:40:00,3.1,1200.0,4
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),2024-08-19 23:15:00,07h 10m,2024-08-20 06:25:00,3.8,2559.0,4
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:10:00,06h 05m,2024-08-20 05:15:00,2.4,1099.0,9
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 23:50:00,07h 00m,2024-08-20 06:50:00,1.8,1034.0,6
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Lavish Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:40:00,05h 50m,2024-08-20 05:30:00,2.7,989.0,25
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:25:00,05h 35m,2024-08-20 05:00:00,4.9,1830.0,18
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:35:00,07h 55m,2024-08-20 05:30:00,4.1,1500.0,40
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:40:00,06h 30m,2024-08-20 05:10:00,3.6,999.0,17
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Prince Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:45:00,06h 15m,2024-08-20 06:00:00,3.0,1099.0,28
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),2024-08-19 21:30:00,08h 30m,2024-08-20 06:00:00,2.8,809.0,7
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Travel Point,A/C Seater / Sleeper (2+2),2024-08-19 22:25:00,06h 55m,2024-08-20 05:20:00,2.7,1044.0,35
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 23:20:00,06h 20m,2024-08-20 05:40:00,4.7,1109.0,14
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),2024-08-19 23:50:00,06h 10m,2024-08-20 06:00:00,1.3,1499.0,37
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 16:20:00,09h 10m,2024-08-20 01:30:00,2.3,1018.0,31
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),2024-08-19 23:30:00,06h 00m,2024-08-20 05:30:00,2.4,1000.0,10
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:05:00,07h 55m,2024-08-20 05:00:00,4.1,1500.0,32
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Lucky Travels,Bharat Benz A/C Seater / Sleeper (2+2),2024-08-19 23:40:00,06h 35m,2024-08-20 06:15:00,2.7,798.0,38
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Khurana Bus Service,Volvo A/C (2+2),2024-08-19 19:35:00,08h 05m,2024-08-20 03:40:00,3.0,1200.0,7
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,PEPSU (Punjab) - 67123,Volvo AC Seater (2+2),2024-08-19 13:45:00,07h 25m,2024-08-19 21:10:00,3.5,1007.0,35
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,PEPSU (Punjab) - 67132,Volvo AC Seater (2+2),2024-08-19 17:40:00,07h 10m,2024-08-20 00:50:00,3.9,1007.0,39
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),2024-08-19 21:50:00,08h 30m,2024-08-20 06:20:00,3.5,1007.0,39
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:20:00,07h 20m,2024-08-20 05:40:00,4.6,925.0,19
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:45:00,08h 45m,2024-08-20 06:30:00,4.7,775.0,27
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 23:30:00,06h 59m,2024-08-20 06:29:00,4.6,900.0,19
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,AdNew Navyug Travels,A/C Sleeper (2+1),2024-08-19 22:45:00,07h 25m,2024-08-20 06:10:00,4.1,825.0,14
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:45:00,08h 20m,2024-08-20 07:05:00,4.6,1171.0,25
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:00:00,08h 00m,2024-08-20 06:00:00,4.5,925.0,15
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:30:00,08h 30m,2024-08-20 06:00:00,4.6,804.0,25
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,AdCity Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 23:15:00,07h 25m,2024-08-20 06:40:00,3.6,619.0,23
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 22:31:00,07h 44m,2024-08-20 06:15:00,4.5,940.0,20
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,AC Sleeper (2+1),2024-08-19 22:00:00,09h 10m,2024-08-20 07:10:00,4.4,1183.0,17
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:15:00,09h 40m,2024-08-20 05:55:00,4.4,910.0,21
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:30:00,07h 40m,2024-08-20 07:10:00,4.3,1080.0,25
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:40:00,07h 50m,2024-08-20 07:30:00,4.3,1081.0,24
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-08-19 23:05:00,07h 15m,2024-08-20 06:20:00,4.3,660.0,24
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,VE A/C Sleeper (2+1),2024-08-19 23:00:00,08h 10m,2024-08-20 07:10:00,4.2,1200.0,20
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:30:00,07h 45m,2024-08-20 04:15:00,4.3,639.0,23
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 20:45:00,08h 45m,2024-08-20 05:30:00,4.3,1076.0,22
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 22:50:00,07h 27m,2024-08-20 06:17:00,4.1,699.0,20
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:15:00,08h 55m,2024-08-20 07:10:00,4.4,937.0,21
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Shri Bawa Lal Tour and Travels,A/C Seater/Sleeper (2+1),2024-08-19 23:00:00,07h 00m,2024-08-20 06:00:00,0.0,2000.0,48
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,R S YADAV SMART BUS PRIVATE LIMITED,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),2024-08-19 22:30:00,07h 21m,2024-08-20 05:51:00,4.4,599.0,6
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-08-19 18:30:00,07h 30m,2024-08-20 02:00:00,4.5,1000.0,21
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 22:00:00,08h 55m,2024-08-20 06:55:00,4.6,1016.0,17
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 21:30:00,09h 35m,2024-08-20 07:05:00,4.2,960.0,18
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:25:00,06h 35m,2024-08-20 05:00:00,4.1,600.0,36
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:00:00,08h 10m,2024-08-20 07:10:00,4.4,810.0,23
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:05:00,08h 55m,2024-08-20 07:00:00,4.6,837.0,26
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),2024-08-19 22:30:00,08h 50m,2024-08-20 07:20:00,4.2,946.0,20
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:40:00,06h 30m,2024-08-20 05:10:00,4.3,647.0,28
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 18:30:00,07h 30m,2024-08-20 02:00:00,4.0,750.0,11
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 21:00:00,09h 05m,2024-08-20 06:05:00,4.6,921.0,14
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),2024-08-19 18:45:00,08h 30m,2024-08-20 03:15:00,4.4,699.0,29
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 22:40:00,07h 17m,2024-08-20 05:57:00,4.3,699.0,14
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),2024-08-19 23:40:00,07h 35m,2024-08-20 07:15:00,2.3,686.0,41
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,NueGo,Electric A/C Seater/Sleeper (2+1),2024-08-19 22:00:00,08h 25m,2024-08-20 06:25:00,2.8,570.0,8
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:50:00,07h 00m,2024-08-20 05:50:00,2.6,539.0,31
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Big Bus,A/C Seater / Sleeper (2+2),2024-08-19 17:35:00,06h 10m,2024-08-19 23:45:00,1.9,641.0,34
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:40:00,06h 20m,2024-08-20 05:00:00,2.6,600.0,13
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,MM Travels,A/C Seater / Sleeper (2+2),2024-08-19 11:55:00,08h 10m,2024-08-19 20:05:00,1.0,850.0,36
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Big Bus,A/C Seater / Sleeper (2+2),2024-08-19 15:30:00,06h 10m,2024-08-19 21:40:00,1.0,649.0,38
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),2024-08-19 14:00:00,09h 05m,2024-08-19 23:05:00,1.7,594.0,44
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Classic Travels,A/C Seater / Sleeper (2+2),2024-08-19 21:40:00,08h 15m,2024-08-20 05:55:00,2.2,649.0,18
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Ashok Bus Service,A/C Seater / Sleeper (2+2),2024-08-19 23:35:00,08h 40m,2024-08-20 08:15:00,4.4,699.0,50
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,FlixBus,A/C Sleeper (2+1),2024-08-19 21:00:00,08h 15m,2024-08-20 05:15:00,4.4,789.0,10
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 18:30:00,10h 00m,2024-08-20 04:30:00,4.0,560.0,22
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),2024-08-19 23:00:00,07h 15m,2024-08-20 06:15:00,3.8,800.0,38
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,FlixBus,A/C Sleeper (2+1),2024-08-19 22:30:00,08h 05m,2024-08-20 06:35:00,4.9,1007.0,3
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Travel Point,A/C Seater / Sleeper (2+2),2024-08-19 21:00:00,06h 21m,2024-08-20 03:21:00,3.5,949.0,50
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Lavish Travels,A/C Seater / Sleeper (2+2),2024-08-19 18:15:00,09h 15m,2024-08-20 03:30:00,3.4,509.0,45
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,New National Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:00:00,07h 00m,2024-08-20 06:00:00,3.6,599.0,29
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:35:00,06h 30m,2024-08-20 06:05:00,3.5,539.0,36
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:40:00,07h 26m,2024-08-20 06:06:00,3.2,629.0,27
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,CALL2TRIP,A/C Seater / Sleeper (2+2),2024-08-19 22:40:00,07h 00m,2024-08-20 05:40:00,2.9,699.0,44
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Big Bus,A/C Seater / Sleeper (2+2),2024-08-19 20:30:00,06h 00m,2024-08-20 02:30:00,3.7,695.0,39
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,RK Holiday,A/C Seater / Sleeper (2+2),2024-08-19 18:25:00,07h 00m,2024-08-20 01:25:00,2.8,527.0,30
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),2024-08-19 22:50:00,06h 45m,2024-08-20 05:35:00,2.7,999.0,34
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),2024-08-19 15:30:00,07h 30m,2024-08-19 23:00:00,1.1,539.0,37
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Shiv Mohan Travels,AC Sleeper (2+1),2024-08-19 18:20:00,09h 50m,2024-08-20 04:10:00,4.3,769.0,26
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Shiv Mohan Travels,AC Sleeper (2+1),2024-08-19 18:20:00,09h 50m,2024-08-20 04:10:00,4.3,931.0,36
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:00:00,07h 50m,2024-08-20 06:50:00,4.0,750.0,16
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,B S Holiday Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,07h 30m,2024-08-20 06:00:00,3.5,1699.0,32
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Khurana Bus Service,Bharat Benz A/C Seater (2+2),2024-08-19 23:25:00,07h 25m,2024-08-20 06:50:00,3.4,749.0,18
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),2024-08-19 20:50:00,07h 00m,2024-08-20 03:50:00,3.4,729.0,32
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),2024-08-19 22:40:00,07h 26m,2024-08-20 06:06:00,3.2,629.0,33
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Apex Bus Travels,A/C Seater / Sleeper (2+2),2024-08-19 17:20:00,08h 55m,2024-08-20 02:15:00,2.8,799.0,42
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,RK Holiday,A/C Seater / Sleeper (2+2),2024-08-19 22:35:00,07h 15m,2024-08-20 05:50:00,2.8,474.0,34
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Big Bus,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,05h 00m,2024-08-20 03:30:00,1.8,695.0,40
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Travel Point World LLP,A/C Seater / Sleeper (2+2),2024-08-19 22:15:00,06h 45m,2024-08-20 05:00:00,1.6,664.0,16
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,MM Travels,AC Seater (2+2),2024-08-19 13:30:00,08h 15m,2024-08-19 21:45:00,1.0,1599.0,35
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),2024-08-19 20:30:00,07h 30m,2024-08-20 04:00:00,1.9,539.0,36
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),2024-08-19 17:00:00,07h 30m,2024-08-20 00:30:00,1.9,539.0,38
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,07h 30m,2024-08-20 06:00:00,3.4,629.0,38
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,PEPSU (Punjab) - 67096,Volvo AC Seater (2+2),2024-08-19 15:03:00,09h 02m,2024-08-20 00:05:00,3.2,1130.0,14
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,PEPSU (Punjab) - 67135,Volvo AC Seater (2+2),2024-08-19 15:33:00,11h 02m,2024-08-20 02:35:00,4.2,1130.0,30
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),2024-08-19 18:10:00,09h 55m,2024-08-20 04:05:00,3.7,1130.0,24
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),2024-08-19 19:10:00,09h 40m,2024-08-20 04:50:00,4.5,1130.0,15
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 18:00:00,11h 00m,2024-08-20 05:00:00,4.4,3300.0,42
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 16:00:00,11h 00m,2024-08-20 03:00:00,4.5,3300.0,34
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 20:00:00,11h 00m,2024-08-20 07:00:00,4.5,3850.0,25
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 12:00:00,11h 00m,2024-08-19 23:00:00,4.5,3850.0,40
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 14:00:00,11h 00m,2024-08-20 01:00:00,4.5,3850.0,16
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 12:00:00,11h 00m,2024-08-19 23:00:00,4.5,3300.0,35
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 23:00:00,11h 00m,2024-08-20 10:00:00,4.5,3300.0,44
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67162,Volvo AC Seater (2+2),2024-08-19 15:00:00,08h 30m,2024-08-19 23:30:00,4.4,969.0,26
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67096,Volvo AC Seater (2+2),2024-08-19 16:15:00,07h 50m,2024-08-20 00:05:00,4.0,969.0,14
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67135,Volvo AC Seater (2+2),2024-08-19 17:35:00,09h 00m,2024-08-20 02:35:00,3.1,969.0,30
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),2024-08-19 19:50:00,08h 15m,2024-08-20 04:05:00,4.3,969.0,24
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),2024-08-19 20:50:00,08h 00m,2024-08-20 04:50:00,4.4,969.0,15
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,PEPSU (Punjab) - 67164,Volvo AC Seater (2+2),2024-08-19 21:50:00,08h 00m,2024-08-20 05:50:00,4.4,969.0,3
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 19:29:00,07h 31m,2024-08-20 03:00:00,4.5,2500.0,51
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 23:29:00,07h 31m,2024-08-20 07:00:00,4.5,2500.0,44
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 15:29:00,07h 31m,2024-08-19 23:00:00,4.5,3000.0,42
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 13:37:00,07h 31m,2024-08-19 21:08:00,4.5,2500.0,44
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 13:29:00,07h 31m,2024-08-19 21:00:00,4.5,2500.0,44
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 15:29:00,07h 31m,2024-08-19 23:00:00,4.5,3000.0,42
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 17:29:00,09h 31m,2024-08-20 03:00:00,4.5,3300.0,34
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 21:29:00,09h 31m,2024-08-20 07:00:00,4.5,3850.0,26
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 19:29:00,09h 31m,2024-08-20 05:00:00,4.5,3300.0,51
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 11:29:00,09h 31m,2024-08-19 21:00:00,4.5,3000.0,42
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 15:39:00,09h 31m,2024-08-20 01:10:00,4.5,3000.0,42
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 13:29:00,09h 31m,2024-08-19 23:00:00,4.5,3850.0,40
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 15:29:00,09h 31m,2024-08-20 01:00:00,4.5,3000.0,41
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 13:29:00,09h 31m,2024-08-19 23:00:00,4.5,3300.0,44
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 15:29:00,09h 31m,2024-08-20 01:00:00,4.5,3850.0,42
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,PEPSU (Punjab) - 67096,Volvo AC Seater (2+2),2024-08-19 15:23:00,08h 42m,2024-08-20 00:05:00,4.7,1078.0,14
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,PEPSU (Punjab) - 67135,Volvo AC Seater (2+2),2024-08-19 15:53:00,10h 42m,2024-08-20 02:35:00,3.1,1078.0,30
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),2024-08-19 18:35:00,09h 30m,2024-08-20 04:05:00,2.8,1078.0,24
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),2024-08-19 19:30:00,09h 20m,2024-08-20 04:50:00,4.8,1078.0,18
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,PEPSU (Punjab) - 67164,Volvo AC Seater (2+2),2024-08-19 20:20:00,09h 30m,2024-08-20 05:50:00,4.0,1078.0,7
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 14:45:00,10h 25m,2024-08-20 01:10:00,4.5,3000.0,42
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 12:35:00,10h 25m,2024-08-19 23:00:00,4.5,3850.0,40
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 14:35:00,10h 25m,2024-08-20 01:00:00,4.5,3000.0,41
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 12:35:00,10h 25m,2024-08-19 23:00:00,4.5,3300.0,44
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 14:35:00,10h 25m,2024-08-20 01:00:00,4.5,3850.0,42
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 23:35:00,10h 25m,2024-08-20 10:00:00,4.5,3300.0,44
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 16:43:00,08h 25m,2024-08-20 01:08:00,4.5,2500.0,44
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 16:35:00,10h 25m,2024-08-20 03:00:00,4.5,3300.0,34
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 20:35:00,10h 25m,2024-08-20 07:00:00,4.5,3850.0,25
+Phagwara to Delhi Airport,https://www.redbus.in/bus-tickets/phagwara-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 18:35:00,10h 25m,2024-08-20 05:00:00,4.5,3300.0,42
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,PEPSU (Punjab) - 67132,Volvo AC Seater (2+2),2024-08-19 15:50:00,07h 50m,2024-08-19 23:40:00,4.0,969.0,39
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),2024-08-19 21:00:00,07h 50m,2024-08-20 04:50:00,3.0,969.0,39
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,PEPSU (Punjab) - 67064,Volvo AC Seater (2+2),2024-08-19 23:58:00,08h 00m,2024-08-20 07:58:00,4.1,969.0,34
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:00:00,09h 55m,2024-08-20 05:55:00,4.3,1333.0,26
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 18:30:00,08h 25m,2024-08-20 02:55:00,4.3,1023.0,23
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-08-19 20:00:00,09h 25m,2024-08-20 05:25:00,4.3,930.0,25
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 19:30:00,10h 15m,2024-08-20 05:45:00,4.5,2500.0,51
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 23:30:00,07h 30m,2024-08-20 07:00:00,4.5,2500.0,44
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 13:00:00,10h 15m,2024-08-19 23:15:00,4.5,2500.0,51
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 23:30:00,07h 15m,2024-08-20 06:45:00,4.5,2500.0,44
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 22:00:00,10h 15m,2024-08-20 08:15:00,4.5,3000.0,42
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 16:00:00,10h 15m,2024-08-20 02:15:00,4.5,3300.0,49
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 16:30:00,10h 15m,2024-08-20 02:45:00,4.5,3300.0,51
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 23:30:00,10h 15m,2024-08-20 09:45:00,4.5,3300.0,51
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 22:30:00,07h 15m,2024-08-20 05:45:00,4.5,3000.0,42
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Zingbus Plus,A/C Sleeper (2+1),2024-08-19 20:00:00,09h 25m,2024-08-20 05:25:00,4.3,1146.0,24
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,PEPSU (Punjab) - 67123,Volvo AC Seater (2+2),2024-08-19 13:45:00,07h 00m,2024-08-19 20:45:00,1.9,954.0,35
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:20:00,07h 00m,2024-08-20 05:20:00,4.6,925.0,19
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:00:00,07h 50m,2024-08-20 05:50:00,4.5,925.0,14
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:40:00,07h 35m,2024-08-20 07:15:00,4.5,1081.0,24
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,New Navyug Travels,A/C Sleeper (2+1),2024-08-19 22:45:00,06h 30m,2024-08-20 05:15:00,4.2,825.0,14
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:15:00,09h 05m,2024-08-20 05:20:00,4.8,910.0,21
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:30:00,07h 10m,2024-08-20 06:40:00,4.6,1080.0,25
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 23:30:00,06h 30m,2024-08-20 06:00:00,4.7,910.0,19
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:30:00,08h 00m,2024-08-20 05:30:00,4.7,764.0,25
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 22:31:00,07h 06m,2024-08-20 05:37:00,4.4,950.0,20
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 20:45:00,08h 05m,2024-08-20 04:50:00,4.8,1076.0,22
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:45:00,07h 50m,2024-08-20 06:35:00,4.3,1113.0,25
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:30:00,07h 10m,2024-08-20 03:40:00,4.0,568.0,23
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 18:30:00,07h 10m,2024-08-20 01:40:00,4.8,750.0,11
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,AC Sleeper (2+1),2024-08-19 22:00:00,08h 45m,2024-08-20 06:45:00,4.2,1120.0,17
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 22:50:00,07h 05m,2024-08-20 05:55:00,4.3,699.0,20
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-08-19 23:05:00,07h 05m,2024-08-20 06:10:00,4.0,568.0,24
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-08-19 18:30:00,07h 10m,2024-08-20 01:40:00,4.9,1000.0,21
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:45:00,08h 10m,2024-08-20 05:55:00,4.7,775.0,27
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:15:00,08h 15m,2024-08-20 06:30:00,3.9,937.0,21
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 21:30:00,09h 00m,2024-08-20 06:30:00,4.7,960.0,18
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),2024-08-19 22:30:00,08h 15m,2024-08-20 06:45:00,4.8,946.0,20
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:00:00,07h 30m,2024-08-20 06:30:00,4.1,769.0,23
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:05:00,08h 35m,2024-08-20 06:40:00,4.4,750.0,31
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 22:00:00,08h 30m,2024-08-20 06:30:00,4.1,1016.0,17
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:50:00,06h 30m,2024-08-20 05:20:00,3.2,539.0,28
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,NueGo,Electric A/C Seater/Sleeper (2+1),2024-08-19 22:00:00,08h 10m,2024-08-20 06:10:00,3.0,570.0,8
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:40:00,05h 50m,2024-08-20 04:30:00,2.5,647.0,30
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),2024-08-19 23:40:00,07h 35m,2024-08-20 07:15:00,1.4,686.0,41
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 21:00:00,08h 30m,2024-08-20 05:30:00,4.5,921.0,14
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 18:30:00,09h 40m,2024-08-20 04:10:00,4.8,560.0,22
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 22:40:00,06h 55m,2024-08-20 05:35:00,3.9,699.0,14
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:25:00,06h 15m,2024-08-20 04:40:00,3.7,600.0,36
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:40:00,06h 05m,2024-08-20 04:45:00,3.7,600.0,19
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Lavish Travels,A/C Seater / Sleeper (2+2),2024-08-19 18:15:00,09h 00m,2024-08-20 03:15:00,3.4,509.0,45
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:40:00,07h 06m,2024-08-20 05:46:00,2.9,629.0,27
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,CALL2TRIP,A/C Seater / Sleeper (2+2),2024-08-19 22:40:00,06h 30m,2024-08-20 05:10:00,2.9,699.0,44
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,RK Holiday,A/C Seater / Sleeper (2+2),2024-08-19 18:25:00,06h 30m,2024-08-20 00:55:00,2.8,527.0,29
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:35:00,06h 00m,2024-08-20 05:35:00,2.5,539.0,36
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Classic Travels,A/C Seater / Sleeper (2+2),2024-08-19 21:40:00,07h 30m,2024-08-20 05:10:00,2.6,649.0,21
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,City Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 23:15:00,07h 05m,2024-08-20 06:20:00,3.6,619.0,23
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),2024-08-19 20:50:00,06h 25m,2024-08-20 03:15:00,3.4,729.0,43
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Hari Das Tour &Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:35:00,06h 40m,2024-08-20 06:15:00,3.2,1199.0,38
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),2024-08-19 22:40:00,07h 06m,2024-08-20 05:46:00,2.9,629.0,38
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,RK Holiday,A/C Seater / Sleeper (2+2),2024-08-19 22:35:00,06h 55m,2024-08-20 05:30:00,2.8,474.0,32
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Khurana Bus Service,Bharat Benz A/C Seater (2+2),2024-08-19 23:25:00,07h 15m,2024-08-20 06:40:00,1.6,749.0,20
+Delhi to Phagwara,https://www.redbus.in/bus-tickets/delhi-to-phagwara,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:00:00,07h 40m,2024-08-20 06:40:00,4.8,750.0,12
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,PEPSU (Punjab) - 67123,Volvo AC Seater (2+2),2024-08-19 13:45:00,09h 25m,2024-08-19 23:10:00,4.1,1216.0,38
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),2024-08-19 21:50:00,10h 30m,2024-08-20 08:20:00,3.8,1216.0,39
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,RSRTC - 156675,Express Non AC Seater 2+3,2024-08-19 22:30:00,10h 00m,2024-08-20 08:30:00,2.0,548.0,37
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,R S YADAV SMART BUS PRIVATE LIMITED,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),2024-08-19 22:40:00,08h 30m,2024-08-20 07:10:00,4.6,599.0,4
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:40:00,08h 25m,2024-08-20 07:05:00,4.5,925.0,19
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,AdFlixBus,A/C Sleeper (2+1),2024-08-19 23:25:00,08h 30m,2024-08-20 07:55:00,3.7,1209.0,3
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:45:00,10h 15m,2024-08-20 08:00:00,4.6,775.0,27
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-08-19 23:05:00,09h 05m,2024-08-20 08:10:00,4.6,673.0,24
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:58:00,08h 22m,2024-08-20 08:20:00,4.5,1171.0,25
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,AdGolden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 23:20:00,07h 50m,2024-08-20 07:10:00,3.6,699.0,20
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:20:00,08h 55m,2024-08-20 07:15:00,4.3,850.0,15
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:55:00,09h 05m,2024-08-20 09:00:00,4.3,1000.0,24
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 21:30:00,09h 10m,2024-08-20 06:40:00,4.4,1076.0,22
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 23:59:00,08h 06m,2024-08-20 08:05:00,4.2,910.0,19
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Laxmi holidays,VE A/C Sleeper (2+1),2024-08-19 23:20:00,08h 55m,2024-08-20 08:15:00,4.2,1200.0,20
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Shri Bawa Lal Tour and Travels,A/C Seater/Sleeper (2+1),2024-08-19 23:00:00,08h 00m,2024-08-20 07:00:00,0.0,2000.0,48
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:50:00,08h 55m,2024-08-20 08:45:00,4.2,1000.0,25
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:25:00,08h 45m,2024-08-20 07:10:00,4.3,804.0,25
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 22:50:00,08h 27m,2024-08-20 07:17:00,4.1,970.0,20
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:15:00,10h 00m,2024-08-20 08:15:00,4.4,937.0,21
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:00:00,09h 15m,2024-08-20 07:15:00,4.2,910.0,21
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:55:00,07h 35m,2024-08-20 06:30:00,4.1,647.0,28
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:35:00,07h 50m,2024-08-20 06:25:00,3.9,600.0,36
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:35:00,10h 00m,2024-08-20 08:35:00,4.3,896.0,26
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 23:30:00,08h 40m,2024-08-20 08:10:00,4.7,1016.0,17
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:35:00,08h 50m,2024-08-20 08:25:00,4.5,810.0,23
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:50:00,07h 40m,2024-08-20 06:30:00,3.3,849.0,11
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 23:10:00,09h 10m,2024-08-20 08:20:00,3.6,960.0,18
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 22:40:00,08h 50m,2024-08-20 07:30:00,4.6,921.0,14
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,NueGo,Electric A/C Seater/Sleeper (2+1),2024-08-19 22:25:00,09h 25m,2024-08-20 07:50:00,3.1,719.0,8
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 23:10:00,08h 05m,2024-08-20 07:15:00,4.0,699.0,14
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:20:00,07h 40m,2024-08-20 07:00:00,2.9,539.0,31
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Classic Travels,A/C Seater / Sleeper (2+2),2024-08-19 21:40:00,09h 15m,2024-08-20 06:55:00,2.2,549.0,17
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),2024-08-19 00:15:00,08h 55m,2024-08-20 09:10:00,2.7,686.0,41
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,CALL2TRIP,A/C Seater / Sleeper (2+2),2024-08-19 22:59:00,08h 11m,2024-08-20 07:10:00,2.9,699.0,43
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),2024-08-19 00:05:00,08h 25m,2024-08-20 08:30:00,4.2,946.0,20
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),2024-08-19 23:00:00,08h 00m,2024-08-20 07:00:00,3.2,800.0,38
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,New National Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:30:00,07h 30m,2024-08-20 07:00:00,2.8,599.0,29
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 00:10:00,07h 25m,2024-08-20 07:35:00,2.8,539.0,36
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),2024-08-19 23:35:00,06h 55m,2024-08-20 06:30:00,2.4,999.0,34
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,City Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 23:15:00,08h 45m,2024-08-20 08:00:00,1.4,619.0,23
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Travel Point World LLP,A/C Seater / Sleeper (2+2),2024-08-19 22:15:00,08h 15m,2024-08-20 06:30:00,1.9,664.0,15
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Khurana Bus Service,Bharat Benz A/C Seater (2+2),2024-08-19 00:10:00,07h 50m,2024-08-20 08:00:00,3.4,749.0,26
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:00:00,09h 00m,2024-08-20 08:00:00,3.4,750.0,12
+Delhi to Amritsar,https://www.redbus.in/bus-tickets/delhi-to-amritsar,RK Holiday,A/C Seater / Sleeper (2+2),2024-08-19 23:05:00,08h 35m,2024-08-20 07:40:00,2.8,474.0,32
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),2024-08-19 15:50:00,11h 35m,2024-08-20 03:25:00,3.3,1216.0,22
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:30:00,09h 00m,2024-08-20 06:30:00,4.7,1399.0,23
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:00:00,08h 00m,2024-08-20 07:00:00,4.7,1592.0,18
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,AdMuskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:15:00,07h 40m,2024-08-20 05:55:00,4.4,1017.0,10
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 19:30:00,09h 15m,2024-08-20 04:45:00,4.5,1235.0,21
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 19:56:00,09h 04m,2024-08-20 05:00:00,4.5,1370.0,17
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:00:00,09h 20m,2024-08-20 06:20:00,4.4,1235.0,20
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,AdIntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:45:00,08h 25m,2024-08-20 07:10:00,4.7,1154.0,23
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 20:45:00,09h 10m,2024-08-20 05:55:00,4.6,1437.0,19
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Laxmi holidays,VE A/C Sleeper (2+1),2024-08-19 21:30:00,09h 15m,2024-08-20 06:45:00,4.4,1600.0,26
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:30:00,08h 15m,2024-08-20 06:45:00,4.4,1297.0,24
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:00:00,08h 40m,2024-08-20 06:40:00,4.5,1592.0,17
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:15:00,08h 50m,2024-08-20 06:05:00,4.4,1524.0,21
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),2024-08-19 12:00:00,22h 00m,2024-08-20 10:00:00,0.0,1080.0,10
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 21:50:00,09h 10m,2024-08-20 07:00:00,4.2,1600.0,13
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 22:30:00,09h 00m,2024-08-20 07:30:00,4.2,1600.0,20
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-08-19 22:11:00,08h 17m,2024-08-20 06:28:00,4.2,1090.0,16
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-08-19 21:10:00,09h 55m,2024-08-20 07:05:00,4.3,1039.0,29
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 22:15:00,08h 05m,2024-08-20 06:20:00,3.9,1169.0,20
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 21:00:00,08h 20m,2024-08-20 05:20:00,3.8,1124.0,8
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:10:00,09h 20m,2024-08-20 05:30:00,4.8,1373.0,16
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-08-19 22:10:00,07h 55m,2024-08-20 06:05:00,4.0,1079.0,16
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 21:20:00,07h 50m,2024-08-20 05:10:00,4.0,999.0,15
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 20:45:00,08h 35m,2024-08-20 05:20:00,3.5,1079.0,4
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 19:45:00,09h 20m,2024-08-20 05:05:00,4.4,2758.0,1
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,NueGo,Electric A/C Seater/Sleeper (2+1),2024-08-19 22:45:00,09h 40m,2024-08-20 08:25:00,3.5,1088.0,3
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 22:40:00,07h 50m,2024-08-20 06:30:00,3.0,1079.0,5
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 20:30:00,09h 15m,2024-08-20 05:45:00,4.2,2525.0,8
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:45:00,07h 30m,2024-08-20 05:15:00,3.2,1099.0,8
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),2024-08-19 23:05:00,08h 05m,2024-08-20 07:10:00,3.0,1086.0,26
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Prince Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:10:00,07h 50m,2024-08-20 06:00:00,3.0,1099.0,28
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),2024-08-19 22:30:00,07h 00m,2024-08-20 05:30:00,3.9,1000.0,10
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),2024-08-19 21:45:00,08h 40m,2024-08-20 06:25:00,4.6,2559.0,4
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,08h 20m,2024-08-20 06:50:00,2.8,1034.0,6
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 22:10:00,07h 05m,2024-08-20 05:15:00,2.3,1810.0,18
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:10:00,09h 20m,2024-08-20 05:30:00,4.1,1500.0,40
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,FlixBus,A/C Sleeper (2+1),2024-08-19 22:00:00,08h 35m,2024-08-20 06:35:00,4.5,1590.0,3
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:05:00,08h 50m,2024-08-20 07:55:00,2.5,629.0,18
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),2024-08-19 22:05:00,07h 40m,2024-08-20 05:45:00,2.9,1499.0,37
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:50:00,08h 25m,2024-08-20 07:15:00,2.3,1079.0,8
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-08-19 22:00:00,07h 40m,2024-08-20 05:40:00,4.4,1109.0,14
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Deltin Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 19:40:00,09h 20m,2024-08-20 05:00:00,4.1,1500.0,32
+Amritsar to Delhi,https://www.redbus.in/bus-tickets/amritsar-to-delhi,Lucky Travels,Bharat Benz A/C Seater / Sleeper (2+2),2024-08-19 22:20:00,08h 10m,2024-08-20 06:30:00,2.7,798.0,41
+Amritsar to Delhi Airport,https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),2024-08-19 15:50:00,12h 15m,2024-08-20 04:05:00,4.6,1340.0,22
+Amritsar to Delhi Airport,https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 21:00:00,13h 00m,2024-08-20 10:00:00,4.5,3300.0,32
+Amritsar to Delhi Airport,https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 16:00:00,11h 00m,2024-08-20 03:00:00,4.5,2500.0,51
+Amritsar to Delhi Airport,https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 14:00:00,13h 00m,2024-08-20 03:00:00,4.5,3300.0,47
+Amritsar to Delhi Airport,https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 18:00:00,13h 00m,2024-08-20 07:00:00,4.5,3850.0,28
+Amritsar to Delhi Airport,https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 16:00:00,13h 00m,2024-08-20 05:00:00,4.5,3300.0,50
+Amritsar to Delhi Airport,https://www.redbus.in/bus-tickets/amritsar-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 12:00:00,13h 00m,2024-08-20 01:00:00,4.5,3850.0,33
+Kapurthala to Delhi,https://www.redbus.in/bus-tickets/kapurthala-to-delhi,PEPSU (Punjab) - 67135,Volvo AC Seater (2+2),2024-08-19 14:22:00,11h 13m,2024-08-20 01:35:00,3.8,1078.0,30
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,PEPSU (Punjab) - 67132,Volvo AC Seater (2+2),2024-08-19 15:50:00,09h 00m,2024-08-20 00:50:00,2.6,1130.0,39
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),2024-08-19 21:00:00,09h 20m,2024-08-20 06:20:00,2.6,1130.0,39
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,PEPSU (Punjab) - 67064,Volvo AC Seater (2+2),2024-08-19 23:58:00,09h 00m,2024-08-20 08:58:00,2.6,1130.0,34
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:00:00,11h 00m,2024-08-20 07:00:00,4.3,1254.0,28
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 18:30:00,09h 45m,2024-08-20 04:15:00,4.3,1055.0,25
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-08-19 20:00:00,10h 20m,2024-08-20 06:20:00,4.3,1076.0,25
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 16:30:00,11h 45m,2024-08-20 04:15:00,4.5,3300.0,51
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 23:30:00,11h 45m,2024-08-20 11:15:00,4.5,3300.0,48
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 13:30:00,08h 45m,2024-08-19 22:15:00,4.5,3000.0,30
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 13:00:00,11h 45m,2024-08-20 00:45:00,4.5,3300.0,50
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 19:30:00,11h 45m,2024-08-20 07:15:00,4.5,3300.0,50
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-08-19 22:00:00,11h 45m,2024-08-20 09:45:00,4.5,3850.0,40
+Delhi Airport to Jalandhar,https://www.redbus.in/bus-tickets/delhi-airport-to-jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-08-19 16:00:00,11h 45m,2024-08-20 03:45:00,4.5,3000.0,30
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 12:00:00,03h 50m,2024-08-19 15:50:00,3.1,600.0,33
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 14:05:00,04h 15m,2024-08-19 18:20:00,3.6,600.0,34
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 14:50:00,03h 50m,2024-08-19 18:40:00,3.8,500.0,33
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 15:25:00,03h 45m,2024-08-19 19:10:00,3.7,500.0,32
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,NEW FATEH BUS SERVICE,Volvo A/C Semi Sleeper (2+2),2024-08-19 16:25:00,03h 50m,2024-08-19 20:15:00,4.5,510.0,24
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 16:55:00,03h 45m,2024-08-19 20:40:00,3.0,600.0,28
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,RATHORE TRAVELS AGENCY,AC Sleeper (2+1),2024-08-19 18:30:00,04h 45m,2024-08-19 23:15:00,4.9,800.0,16
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Zimindara Travels,AC Sleeper (2+1),2024-08-19 20:00:00,05h 30m,2024-08-20 01:30:00,4.1,810.0,22
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Rajpreet Travels and cargo,A/C Sleeper (2+1),2024-08-19 20:00:00,05h 15m,2024-08-20 01:15:00,3.5,666.0,22
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Orbit Aviation Pvt. Ltd.,Mercedes Benz A/C Sleeper (2+1),2024-08-19 20:15:00,04h 45m,2024-08-20 01:00:00,3.7,650.0,37
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Orbit Aviation Pvt. Ltd.,Mercedes Benz A/C Sleeper (2+1),2024-08-19 20:20:00,04h 40m,2024-08-20 01:00:00,3.7,650.0,32
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Orbit Aviation Pvt. Ltd.,Mercedes Benz A/C Sleeper (2+1),2024-08-19 20:30:00,04h 30m,2024-08-20 01:00:00,3.4,650.0,32
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Zimindara Travels,AC Sleeper (2+1),2024-08-19 20:30:00,05h 20m,2024-08-20 01:50:00,4.1,770.0,11
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Rajpreet Travels and cargo,A/C Sleeper (2+1),2024-08-19 21:00:00,04h 30m,2024-08-20 01:30:00,3.5,905.0,24
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Rajpreet Travels and cargo,VE A/C Sleeper (2+1),2024-08-19 21:20:00,04h 40m,2024-08-20 02:00:00,3.5,905.0,29
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,New deep bus service,Volvo Multi-Axle A/C Seater (2+2),2024-08-19 12:35:00,04h 05m,2024-08-19 16:40:00,2.1,571.43,20
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 13:30:00,04h 00m,2024-08-19 17:30:00,2.8,500.0,43
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,AMBIKA MISHRA TRAVELS,AC Sleeper (2+1),2024-08-19 20:40:00,04h 30m,2024-08-20 01:10:00,2.5,650.0,18
+Chandigarh to Bathinda,https://www.redbus.in/bus-tickets/chandigarh-to-bathinda,Rajpreet Travels and cargo,A/C Sleeper (2+1),2024-08-19 19:00:00,04h 00m,2024-08-19 23:00:00,3.5,950.0,26
+Chandigarh to Faridkot,https://www.redbus.in/bus-tickets/chandigarh-to-faridkot,Jujhar Travels,Volvo A/C Semi Sleeper (2+2),2024-08-19 16:20:00,04h 25m,2024-08-19 20:45:00,4.3,600.0,38
+Chandigarh to Patiala,https://www.redbus.in/bus-tickets/chandigarh-to-patiala,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 14:50:00,01h 40m,2024-08-19 16:30:00,4.0,200.0,34
+Chandigarh to Patiala,https://www.redbus.in/bus-tickets/chandigarh-to-patiala,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 16:55:00,01h 35m,2024-08-19 18:30:00,3.6,200.0,27
+Chandigarh to Patiala,https://www.redbus.in/bus-tickets/chandigarh-to-patiala,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 12:00:00,01h 30m,2024-08-19 13:30:00,2.4,200.0,33
+Chandigarh to Patiala,https://www.redbus.in/bus-tickets/chandigarh-to-patiala,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 13:30:00,01h 50m,2024-08-19 15:20:00,2.4,200.0,45
+Chandigarh to Patiala,https://www.redbus.in/bus-tickets/chandigarh-to-patiala,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 13:55:00,01h 45m,2024-08-19 15:40:00,2.5,200.0,42
+Chandigarh to Patiala,https://www.redbus.in/bus-tickets/chandigarh-to-patiala,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-08-19 15:25:00,01h 20m,2024-08-19 16:45:00,2.2,200.0,36
+Chandigarh to Patiala,https://www.redbus.in/bus-tickets/chandigarh-to-patiala,NEW FATEH BUS SERVICE,Volvo A/C Semi Sleeper (2+2),2024-08-19 16:25:00,01h 35m,2024-08-19 18:00:00,4.5,510.0,25
+Jammu to Srinagar (J and K),https://www.redbus.in/bus-tickets/jammu-to-srinagar,New Pal Travels,NON A/C Seater / Sleeper (2+2),2024-08-19 21:15:00,10h 00m,2024-08-20 07:15:00,1.4,799.0,36
+Jammu to Srinagar (J and K),https://www.redbus.in/bus-tickets/jammu-to-srinagar,Harikesh Tour N Travels,NON A/C Seater / Sleeper (2+2),2024-08-19 20:30:00,09h 30m,2024-08-20 06:00:00,1.0,584.0,33
+Jammu to Srinagar (J and K),https://www.redbus.in/bus-tickets/jammu-to-srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),2024-08-19 16:30:00,10h 00m,2024-08-20 02:30:00,1.0,699.0,40
+Jammu to Srinagar (J and K),https://www.redbus.in/bus-tickets/jammu-to-srinagar,Jamna Travels-Jammu,Non AC Seater (2+2),2024-08-19 21:30:00,10h 30m,2024-08-20 08:00:00,2.4,549.0,32
+Jammu to Srinagar (J and K),https://www.redbus.in/bus-tickets/jammu-to-srinagar,North Kashmir Tour and Travels,NON A/C Sleeper (2+2),2024-08-19 17:15:00,10h 00m,2024-08-20 03:15:00,1.0,699.0,40
+Delhi to Srinagar (J and K),https://www.redbus.in/bus-tickets/delhi-to-srinagar,RAO TRAVELS INDIA PVT LTD.,Mercedes Benz A/C (2+2),2024-08-19 16:00:00,19h 30m,2024-08-20 11:30:00,2.3,3000.0,46
+Jammu to Haridwar,https://www.redbus.in/bus-tickets/jammu-to-haridwar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:50:00,12h 40m,2024-08-20 09:30:00,4.5,1010.0,21
+Jammu to Haridwar,https://www.redbus.in/bus-tickets/jammu-to-haridwar,City Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 20:30:00,12h 30m,2024-08-20 09:00:00,3.6,799.0,18
+Jammu to Haridwar,https://www.redbus.in/bus-tickets/jammu-to-haridwar,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),2024-08-19 20:00:00,12h 55m,2024-08-20 08:55:00,3.8,880.0,10
+Jammu to Haridwar,https://www.redbus.in/bus-tickets/jammu-to-haridwar,City Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 18:00:00,12h 20m,2024-08-20 06:20:00,3.1,889.0,23
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:10:00,13h 10m,2024-08-20 09:20:00,4.6,1400.0,32
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Gola Bus Service,A/C Seater/Sleeper (2+1),2024-08-19 20:20:00,11h 30m,2024-08-20 07:50:00,4.9,2000.0,36
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),2024-08-19 20:00:00,11h 45m,2024-08-20 07:45:00,4.6,2247.0,7
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,AdLavish Travels,A/C Seater / Sleeper (2+2),2024-08-19 16:35:00,12h 55m,2024-08-20 05:30:00,3.6,934.0,26
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-08-19 20:15:00,11h 45m,2024-08-20 08:00:00,4.4,2000.0,24
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-08-19 18:45:00,11h 15m,2024-08-20 06:00:00,4.4,2200.0,19
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 21:30:00,11h 30m,2024-08-20 09:00:00,4.4,2000.0,8
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,AdFlixBus,A/C Sleeper (2+1),2024-08-19 22:30:00,12h 35m,2024-08-20 11:05:00,4.7,921.0,8
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Laxmi holidays,VE A/C Seater / Sleeper (2+1),2024-08-19 20:30:00,11h 45m,2024-08-20 08:15:00,4.3,1428.0,22
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 18:15:00,11h 45m,2024-08-20 06:00:00,4.4,1800.0,15
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:15:00,11h 35m,2024-08-20 09:50:00,4.3,1503.0,21
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 17:35:00,11h 55m,2024-08-20 05:30:00,4.2,1635.0,7
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 20:15:00,11h 15m,2024-08-20 07:30:00,4.2,1320.0,6
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Travel Point,A/C Seater / Sleeper (2+2),2024-08-19 15:45:00,13h 15m,2024-08-20 05:00:00,4.0,880.0,34
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Zingbus Plus,A/C Sleeper (2+1),2024-08-19 21:15:00,11h 50m,2024-08-20 09:05:00,4.7,1800.0,29
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Awadh Travels,A/C Sleeper (2+2),2024-08-19 20:55:00,11h 45m,2024-08-20 08:40:00,4.7,1214.0,12
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,B S Holiday Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:10:00,10h 50m,2024-08-20 09:00:00,5.0,1199.0,34
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,DS Hari Travels,A/C Seater / Sleeper (2+2),2024-08-19 21:30:00,11h 45m,2024-08-20 09:15:00,2.6,999.0,34
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jamna Travels-Jammu,A/C Seater / Sleeper (2+2),2024-08-19 20:30:00,11h 30m,2024-08-20 08:00:00,2.0,949.0,29
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,FlixBus,A/C Sleeper (2+1),2024-08-19 20:00:00,12h 20m,2024-08-20 08:20:00,3.8,1249.0,1
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),2024-08-19 21:00:00,13h 26m,2024-08-20 10:26:00,2.5,1199.0,23
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Jamna Travels-Jammu,A/C Seater / Sleeper (2+2),2024-08-19 17:30:00,12h 00m,2024-08-20 05:30:00,1.3,899.0,15
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Travel Point World LLP,A/C Seater / Sleeper (2+2),2024-08-19 17:16:00,12h 30m,2024-08-20 05:46:00,1.5,1017.0,24
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 22:15:00,11h 15m,2024-08-20 09:30:00,1.0,1030.0,19
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Shub Yatra Holidays,A/C Sleeper (2+2),2024-08-19 21:15:00,12h 45m,2024-08-20 10:00:00,2.1,2399.0,28
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Shiv Mohan Travels,AC Sleeper (2+1),2024-08-19 18:30:00,13h 15m,2024-08-20 07:45:00,3.7,1174.0,28
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Lucky Bus Service,VE A/C Sleeper (2+2),2024-08-19 21:15:00,10h 00m,2024-08-20 07:15:00,3.6,1439.0,30
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,NKS Holidays,A/C Sleeper (2+2),2024-08-19 21:00:00,12h 16m,2024-08-20 09:16:00,3.2,1599.0,32
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,NKS Holidays,A/C Sleeper (2+2),2024-08-19 20:00:00,12h 16m,2024-08-20 08:16:00,3.2,1599.0,32
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Apex Bus Travels,A/C Seater / Sleeper (2+2),2024-08-19 20:45:00,09h 15m,2024-08-20 06:00:00,2.8,1299.0,28
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Apex Bus Travels,A/C Seater / Sleeper (2+2),2024-08-19 20:00:00,14h 00m,2024-08-20 10:00:00,2.8,999.0,24
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,SHAH HOLIDAY TRAVEL,Bharat Benz A/C Seater / Sleeper (2+2),2024-08-19 21:00:00,11h 00m,2024-08-20 08:00:00,2.6,1499.0,22
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),2024-08-19 16:00:00,14h 00m,2024-08-20 06:00:00,2.4,764.0,7
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,RAO TRAVELS INDIA PVT LTD.,Mercedes Benz A/C (2+2),2024-08-19 20:45:00,11h 30m,2024-08-20 08:15:00,2.3,3000.0,47
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Travel Point World LLP,A/C Seater / Sleeper (2+2),2024-08-19 20:00:00,12h 15m,2024-08-20 08:15:00,1.6,1234.0,46
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Sahiba Travels India Sahiba Bus Service Regd,A/C Sleeper (2+2),2024-08-19 21:30:00,12h 01m,2024-08-20 09:31:00,1.0,1800.0,22
+Jammu to Delhi,https://www.redbus.in/bus-tickets/jammu-to-delhi,Cool cool Tour and Travels India Pvt LTD,A/C Seater / Sleeper (2+2),2024-08-19 19:30:00,14h 16m,2024-08-20 09:46:00,1.0,1099.0,24
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 18:30:00,11h 55m,2024-08-20 06:25:00,4.7,750.0,11
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-08-19 21:30:00,12h 45m,2024-08-20 10:15:00,4.5,1000.0,31
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Gola Bus Service,A/C Seater/Sleeper (2+1),2024-08-19 20:00:00,13h 00m,2024-08-20 09:00:00,4.8,1599.0,36
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,AdLavish Travels,A/C Seater / Sleeper (2+2),2024-08-19 18:15:00,14h 00m,2024-08-20 08:15:00,3.4,509.0,45
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-08-19 18:30:00,12h 30m,2024-08-20 07:00:00,4.4,1000.0,21
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),2024-08-19 18:30:00,13h 50m,2024-08-20 08:20:00,4.4,432.0,21
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 22:30:00,13h 00m,2024-08-20 11:30:00,4.4,800.0,21
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,AdB S Holiday Travels,A/C Seater / Sleeper (2+2),2024-08-19 17:30:00,12h 25m,2024-08-20 05:55:00,3.8,1199.0,42
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 20:30:00,10h 05m,2024-08-20 06:35:00,4.3,606.0,23
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 17:00:00,13h 00m,2024-08-20 06:00:00,4.2,601.0,23
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 21:00:00,13h 00m,2024-08-20 10:00:00,4.0,549.0,45
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 18:00:00,13h 00m,2024-08-20 07:00:00,4.2,800.0,26
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 19:30:00,13h 20m,2024-08-20 08:50:00,4.2,549.0,43
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 22:00:00,13h 00m,2024-08-20 11:00:00,4.2,800.0,25
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Laxmi holidays,VE A/C Seater / Sleeper (2+1),2024-08-19 21:50:00,12h 30m,2024-08-20 10:20:00,4.2,670.0,18
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),2024-08-19 18:45:00,13h 30m,2024-08-20 08:15:00,4.6,699.0,29
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),2024-08-19 17:30:00,13h 00m,2024-08-20 06:30:00,3.8,821.0,44
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,RK Holiday,A/C Seater / Sleeper (2+2),2024-08-19 23:20:00,12h 45m,2024-08-20 12:05:00,3.4,527.0,32
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Travel Point,A/C Seater / Sleeper (2+2),2024-08-19 19:10:00,13h 15m,2024-08-20 08:25:00,3.4,723.0,44
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-08-19 20:00:00,13h 40m,2024-08-20 09:40:00,4.5,607.0,22
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Lucky Bus Service,VE A/C Sleeper (2+2),2024-08-19 17:00:00,12h 30m,2024-08-20 05:30:00,3.6,1698.0,32
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),2024-08-19 20:50:00,12h 10m,2024-08-20 09:00:00,3.6,729.0,43
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,B S Holiday Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,12h 30m,2024-08-20 11:00:00,3.8,499.0,38
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 18:30:00,14h 00m,2024-08-20 08:30:00,4.5,560.0,22
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Big Bus,A/C Seater / Sleeper (2+2),2024-08-19 17:35:00,12h 00m,2024-08-20 05:35:00,2.5,641.0,34
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Travel Point,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,12h 45m,2024-08-20 11:15:00,3.7,994.0,50
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Ashok Bus Service,A/C Seater / Sleeper (2+2),2024-08-19 23:35:00,13h 25m,2024-08-20 13:00:00,1.8,699.0,50
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Travel Point World LLP,A/C Seater / Sleeper (2+2),2024-08-19 18:30:00,13h 20m,2024-08-20 07:50:00,3.5,599.0,46
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Shub Yatra Holidays,A/C Sleeper (2+2),2024-08-19 22:45:00,12h 15m,2024-08-20 11:00:00,2.7,1199.0,28
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Awadh Travels,A/C Sleeper (2+2),2024-08-19 21:10:00,13h 00m,2024-08-20 10:10:00,3.8,719.0,35
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,SHAH HOLIDAY TRAVEL,Bharat Benz A/C Seater / Sleeper (2+2),2024-08-19 21:00:00,13h 00m,2024-08-20 10:00:00,2.5,599.0,35
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),2024-08-19 14:00:00,14h 00m,2024-08-20 04:00:00,1.6,764.0,41
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,MM Travels,A/C Seater / Sleeper (2+2),2024-08-19 11:55:00,12h 00m,2024-08-19 23:55:00,1.0,850.0,36
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,RK Holiday,A/C Seater / Sleeper (2+2),2024-08-19 18:25:00,13h 20m,2024-08-20 07:45:00,1.2,527.0,29
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,KVS Holidays,A/C Seater / Sleeper (2+2),2024-08-19 17:00:00,12h 30m,2024-08-20 05:30:00,3.1,199.0,42
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Big Bus,A/C Seater / Sleeper (2+2),2024-08-19 20:30:00,10h 30m,2024-08-20 07:00:00,2.8,695.0,39
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Red Apple Bus Service,A/C Seater / Sleeper (2+2),2024-08-19 22:00:00,10h 30m,2024-08-20 08:30:00,2.0,899.0,24
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,FlixBus,A/C Sleeper (2+1),2024-08-19 21:00:00,13h 35m,2024-08-20 10:35:00,4.0,1009.0,10
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Lucky Bus Service,VE A/C Sleeper (2+2),2024-08-19 19:30:00,11h 50m,2024-08-20 07:20:00,3.5,1698.0,32
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,NKS Holidays,A/C Sleeper (2+2),2024-08-19 17:00:00,13h 00m,2024-08-20 06:00:00,3.8,1799.0,28
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),2024-08-19 19:00:00,12h 00m,2024-08-20 07:00:00,4.5,999.0,26
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Lucky Bus Service,A/C Seater / Sleeper (2+2),2024-08-19 21:00:00,11h 30m,2024-08-20 08:30:00,3.6,798.0,48
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),2024-08-19 22:45:00,11h 25m,2024-08-20 10:10:00,2.8,1449.0,34
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),2024-08-19 20:30:00,12h 00m,2024-08-20 08:30:00,3.0,539.0,36
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),2024-08-19 20:00:00,13h 15m,2024-08-20 09:15:00,2.5,699.0,24
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),2024-08-19 21:45:00,11h 45m,2024-08-20 09:30:00,3.2,799.0,29
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,DS Hari Travels,A/C Seater / Sleeper (2+2),2024-08-19 21:00:00,13h 00m,2024-08-20 10:00:00,2.2,450.0,38
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),2024-08-19 15:30:00,12h 00m,2024-08-20 03:30:00,2.9,539.0,37
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Big Bus,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,11h 30m,2024-08-20 10:00:00,1.3,695.0,40
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Travel Point World LLP,A/C Seater / Sleeper (2+2),2024-08-19 20:30:00,13h 20m,2024-08-20 09:50:00,1.9,999.0,46
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Apex Bus Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:45:00,10h 00m,2024-08-20 08:45:00,2.2,799.0,44
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Travel Point,A/C Seater / Sleeper (2+2),2024-08-19 19:45:00,13h 15m,2024-08-20 09:00:00,2.1,994.0,50
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Travel Point,A/C Seater / Sleeper (2+2),2024-08-19 21:30:00,12h 45m,2024-08-20 10:15:00,1.5,994.0,50
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Lucky Bus Service,VE A/C Sleeper (2+2),2024-08-19 18:00:00,12h 00m,2024-08-20 06:00:00,1.9,998.0,32
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,NKS Holidays,A/C Seater / Sleeper (2+2),2024-08-19 19:30:00,11h 00m,2024-08-20 06:30:00,2.0,1599.0,28
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,12h 00m,2024-08-20 10:30:00,2.2,629.0,38
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Gola Bus Service,VE A/C Seater / Sleeper (2+1),2024-08-19 18:00:00,13h 00m,2024-08-20 07:00:00,4.8,1599.0,44
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Shiv Mohan Travels,AC Sleeper (2+1),2024-08-19 18:20:00,14h 40m,2024-08-20 09:00:00,4.3,1093.0,26
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Shiv Mohan Travels,AC Sleeper (2+1),2024-08-19 18:20:00,14h 40m,2024-08-20 09:00:00,4.3,1174.0,36
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,New National Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,12h 30m,2024-08-20 11:00:00,3.0,1449.0,32
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Vaishnoyatra services pvt ltd,A/C Seater / Sleeper (2+2),2024-08-19 22:00:00,11h 30m,2024-08-20 09:30:00,3.0,650.0,38
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Vaishnoyatra services pvt ltd,A/C Seater / Sleeper (2+2),2024-08-19 20:30:00,11h 45m,2024-08-20 08:15:00,3.0,750.0,33
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),2024-08-19 17:00:00,12h 00m,2024-08-20 05:00:00,2.7,539.0,38
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Big Bus,A/C Seater / Sleeper (2+2),2024-08-19 15:30:00,12h 00m,2024-08-20 03:30:00,2.5,649.0,41
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),2024-08-19 19:00:00,13h 15m,2024-08-20 08:15:00,2.5,699.0,23
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,RAO TRAVELS INDIA PVT LTD.,Mercedes Benz A/C (2+2),2024-08-19 16:00:00,11h 30m,2024-08-20 03:30:00,2.3,3000.0,46
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Apex Bus Travels,A/C Seater / Sleeper (2+2),2024-08-19 17:20:00,12h 40m,2024-08-20 06:00:00,2.2,799.0,44
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Apex Bus Travels,A/C Seater / Sleeper (2+2),2024-08-19 17:45:00,10h 00m,2024-08-20 03:45:00,2.2,699.0,39
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Apex Bus Travels,A/C Seater / Sleeper (2+2),2024-08-19 19:30:00,10h 00m,2024-08-20 05:30:00,2.2,699.0,40
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,MM Travels,AC Seater (2+2),2024-08-19 13:30:00,11h 30m,2024-08-20 01:00:00,1.0,1599.0,35
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Sahiba Travels India Sahiba Bus Service Regd,A/C Sleeper (2+2),2024-08-19 17:00:00,13h 31m,2024-08-20 06:31:00,1.0,1800.0,18
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Sahiba Travels India Sahiba Bus Service Regd,A/C Sleeper (2+2),2024-08-19 20:00:00,13h 31m,2024-08-20 09:31:00,1.0,1800.0,20
+Delhi to Jammu,https://www.redbus.in/bus-tickets/delhi-to-jammu,Cool cool Tour and Travels India Pvt LTD,A/C Seater / Sleeper (2+2),2024-08-19 20:30:00,13h 16m,2024-08-20 09:46:00,1.0,999.0,24
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),2024-08-19 13:00:00,01h 30m,2024-08-19 14:30:00,3.7,424.0,46
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Lavish Travels,A/C Seater / Sleeper (2+2),2024-08-19 14:40:00,13h 55m,2024-08-20 04:35:00,3.4,934.0,24
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,City Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 16:30:00,01h 20m,2024-08-19 17:50:00,3.6,889.0,31
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Shiv Mohan Travels,AC Sleeper (2+1),2024-08-19 17:00:00,01h 30m,2024-08-19 18:30:00,4.3,729.0,36
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Shiv Mohan Travels,AC Sleeper (2+1),2024-08-19 18:30:00,02h 00m,2024-08-19 20:30:00,4.3,471.0,36
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,FlixBus,A/C Sleeper (2+1),2024-08-19 18:30:00,01h 25m,2024-08-19 19:55:00,4.0,115.0,28
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 18:45:00,01h 25m,2024-08-19 20:10:00,4.3,123.0,37
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),2024-08-19 19:00:00,01h 00m,2024-08-19 20:00:00,3.7,860.0,28
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,City Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 19:00:00,01h 30m,2024-08-19 20:30:00,3.6,799.0,40
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Zingbus Plus,A/C Sleeper (2+1),2024-08-19 19:50:00,01h 25m,2024-08-19 21:15:00,4.3,123.0,30
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,FlixBus,A/C Sleeper (2+1),2024-08-19 21:00:00,01h 25m,2024-08-19 22:25:00,4.0,121.0,27
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Skyway Bus,A/C Sleeper (2+1),2024-08-19 22:55:00,01h 00m,2024-08-19 23:55:00,3.1,490.0,36
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Royal Golden,A/C Seater / Sleeper (2+2),2024-08-19 13:00:00,01h 00m,2024-08-19 14:00:00,2.0,600.0,35
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Royal Golden,A/C Seater / Sleeper (2+2),2024-08-19 23:00:00,01h 00m,2024-08-20 00:00:00,2.0,495.0,32
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 23:00:00,01h 20m,2024-08-20 00:20:00,1.2,399.0,34
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,VGO BUS,A/C Seater/Sleeper (2+1),2024-08-19 18:30:00,01h 00m,2024-08-19 19:30:00,4.1,1800.0,40
+Katra (jammu and kashmir) to Jammu,https://www.redbus.in/bus-tickets/katra-to-jammu,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),2024-08-19 20:00:00,01h 00m,2024-08-19 21:00:00,3.7,1499.0,38
+Jammu to Katra (jammu and kashmir),https://www.redbus.in/bus-tickets/jammu-to-katra,Mahadev Travels(mdvt),Volvo A/C Semi Sleeper (2+2),2024-08-19 18:10:00,01h 20m,2024-08-19 19:30:00,3.6,450.0,41
+Jammu to Katra (jammu and kashmir),https://www.redbus.in/bus-tickets/jammu-to-katra,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 20:30:00,01h 30m,2024-08-19 22:00:00,3.7,299.0,40
+Jammu to Katra (jammu and kashmir),https://www.redbus.in/bus-tickets/jammu-to-katra,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-08-19 21:10:00,01h 00m,2024-08-19 22:10:00,3.7,249.0,32
+Jammu to Katra (jammu and kashmir),https://www.redbus.in/bus-tickets/jammu-to-katra,Bhawani Travels,Bharat Benz A/C Semi Sleeper (2+2),2024-08-19 18:15:00,02h 25m,2024-08-19 20:40:00,2.0,428.0,29
+Jammu to Katra (jammu and kashmir),https://www.redbus.in/bus-tickets/jammu-to-katra,Bhawani Travels,A/C Seater / Sleeper (2+2),2024-08-19 19:50:00,01h 40m,2024-08-19 21:30:00,2.0,269.0,48
+Jammu to Katra (jammu and kashmir),https://www.redbus.in/bus-tickets/jammu-to-katra,Bhawani Travels,A/C Seater / Sleeper (2+2),2024-08-19 20:00:00,01h 45m,2024-08-19 21:45:00,2.0,250.0,31
+Haridwar to Jammu,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 17:30:00,12h 30m,2024-08-20 06:00:00,4.4,800.0,21
+Haridwar to Jammu,https://www.redbus.in/bus-tickets/haridwar-to-jammu,City Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 20:00:00,12h 00m,2024-08-20 08:00:00,3.5,709.0,21
+Haridwar to Jammu,https://www.redbus.in/bus-tickets/haridwar-to-jammu,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),2024-08-19 18:20:00,12h 40m,2024-08-20 07:00:00,3.7,800.0,19
+Haridwar to Jammu,https://www.redbus.in/bus-tickets/haridwar-to-jammu,Zimindara Travels,AC Sleeper (2+1),2024-08-19 17:10:00,12h 50m,2024-08-20 06:00:00,4.1,1099.0,21
+Haridwar to Jammu,https://www.redbus.in/bus-tickets/haridwar-to-jammu,City Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 17:40:00,12h 00m,2024-08-20 05:40:00,3.7,1033.0,18
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Chandigarh Transport Undertaking (CTU) - 165940,HVAC Seater (2+3),2024-08-19 15:40:00,09h 25m,2024-08-20 01:05:00,3.7,554.29,47
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 22:50:00,07h 10m,2024-08-20 06:00:00,4.4,640.0,30
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-08-19 23:50:00,07h 10m,2024-08-20 07:00:00,4.4,900.0,21
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,AdNew Pal Travels,A/C Sleeper (2+1),2024-08-19 19:30:00,10h 15m,2024-08-20 05:45:00,3.8,499.0,28
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-08-19 23:30:00,07h 30m,2024-08-20 07:00:00,4.5,720.0,26
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Zimindara Travels,A/C Seater / Sleeper (2+1),2024-08-19 22:30:00,07h 00m,2024-08-20 05:30:00,4.3,499.0,18
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 23:05:00,06h 55m,2024-08-20 06:00:00,4.3,400.0,25
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,AdHarikesh Tour N Travels,A/C Sleeper (2+1),2024-08-19 21:00:00,07h 30m,2024-08-20 04:30:00,3.9,495.0,25
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Moon Light Travels Katra,A/C Sleeper (2+1),2024-08-19 21:15:00,07h 15m,2024-08-20 04:30:00,4.3,584.0,2
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Jamna Travels-Jammu,AshokLeyland Stile A/C,2024-08-19 20:15:00,08h 15m,2024-08-20 04:30:00,3.9,550.0,30
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Zimindara Travels,AC Sleeper (2+1),2024-08-19 23:00:00,07h 00m,2024-08-20 06:00:00,4.1,699.0,22
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Zimindara Travels,AC Sleeper (2+1),2024-08-19 21:30:00,07h 00m,2024-08-20 04:30:00,3.8,649.0,6
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Zimindara Travels,AC Sleeper (2+1),2024-08-19 22:00:00,07h 00m,2024-08-20 05:00:00,3.5,649.0,6
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),2024-08-19 23:30:00,07h 30m,2024-08-20 07:00:00,3.7,770.0,23
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Radhe Travels,Bharat Benz A/C Sleeper (2+1),2024-08-19 21:20:00,07h 25m,2024-08-20 04:45:00,4.1,521.0,22
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),2024-08-19 13:40:00,07h 00m,2024-08-19 20:40:00,3.2,699.0,41
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Radhe Travels,Bharat Benz A/C Sleeper (2+1),2024-08-19 21:30:00,07h 15m,2024-08-20 04:45:00,3.7,521.0,23
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,SAHARA TRAVELS,A/C Seater / Sleeper (2+2),2024-08-19 21:15:00,08h 00m,2024-08-20 05:15:00,2.5,404.0,34
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),2024-08-19 13:45:00,06h 55m,2024-08-19 20:40:00,3.7,699.0,44
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,GOBUS,A/C Seater / Sleeper (2+2),2024-08-19 22:05:00,07h 30m,2024-08-20 05:35:00,3.3,462.0,22
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),2024-08-19 13:47:00,06h 53m,2024-08-19 20:40:00,3.0,699.0,41
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),2024-08-19 23:15:00,07h 15m,2024-08-20 06:30:00,2.6,888.0,44
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,DS Hari Travels,A/C Sleeper (2+2),2024-08-19 21:15:00,07h 45m,2024-08-20 05:00:00,2.5,409.0,44
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Big Bus,A/C Seater / Sleeper (2+2),2024-08-19 22:25:00,07h 10m,2024-08-20 05:35:00,2.5,641.0,34
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,City Land Travels,A/C Seater/Sleeper (2+1),2024-08-19 23:15:00,06h 25m,2024-08-20 05:40:00,3.6,799.0,20
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),2024-08-19 23:29:00,07h 46m,2024-08-20 07:15:00,3.5,999.0,24
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Khurana Bus Service,Volvo A/C (2+2),2024-08-19 15:30:00,06h 40m,2024-08-19 22:10:00,3.4,1049.0,17
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Khurana Bus Service,Volvo A/C (2+2),2024-08-19 15:35:00,06h 35m,2024-08-19 22:10:00,3.4,949.0,5
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Apex Bus Travels,A/C Seater / Sleeper (2+2),2024-08-19 22:15:00,05h 30m,2024-08-20 03:45:00,2.8,699.0,39
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Big Bus,A/C Seater / Sleeper (2+2),2024-08-19 20:20:00,07h 10m,2024-08-20 03:30:00,2.5,649.0,41
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),2024-08-19 21:30:00,06h 00m,2024-08-20 03:30:00,2.3,539.0,39
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),2024-08-19 23:00:00,06h 00m,2024-08-20 05:00:00,2.3,539.0,38
+Chandigarh to Jammu,https://www.redbus.in/bus-tickets/chandigarh-to-jammu,RAO TRAVELS INDIA PVT LTD.,Mercedes Benz A/C (2+2),2024-08-19 23:00:00,04h 30m,2024-08-20 03:30:00,2.3,3000.0,46
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jaspal Travels,AC Seater (2+2),2024-08-19 12:20:00,04h 40m,2024-08-19 17:00:00,4.4,360.0,24
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Bhawani Travels,Bharat Benz A/C Semi Sleeper (2+2),2024-08-19 12:30:00,04h 35m,2024-08-19 17:05:00,4.1,285.0,1
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Bhawani Travels,A/C Seater / Sleeper (2+2),2024-08-19 13:20:00,05h 00m,2024-08-19 18:20:00,3.4,323.0,21
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,AdBhawani Travels,Bharat Benz A/C Seater (2+2),2024-08-19 16:30:00,04h 35m,2024-08-19 21:05:00,3.3,285.0,7
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Bhawani Travels,VE A/C Seater (2+2),2024-08-19 14:10:00,05h 00m,2024-08-19 19:10:00,4.3,299.0,1
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,CHANDRA RAJ TRAVELS,Bharat Benz A/C Sleeper (2+1),2024-08-19 14:15:00,04h 35m,2024-08-19 18:50:00,4.0,500.0,28
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jamna Travels-Jammu,A/C Seater Push Back (2+2),2024-08-19 14:30:00,03h 52m,2024-08-19 18:22:00,3.3,340.0,4
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jain travels regd,AC Sleeper (2+1),2024-08-19 15:15:00,04h 45m,2024-08-19 20:00:00,3.6,500.0,22
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jamna Travels-Jammu,A/C Seater Push Back (2+2),2024-08-19 16:30:00,04h 15m,2024-08-19 20:45:00,3.0,399.0,22
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Bhawani Travels,Bharat Benz A/C Seater (2+2),2024-08-19 18:30:00,04h 45m,2024-08-19 23:15:00,3.7,285.0,19
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Jamna Travels-Jammu,A/C Seater / Sleeper (2+2),2024-08-19 22:30:00,05h 15m,2024-08-20 03:45:00,3.9,399.0,30
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Bhawani Travels,A/C Seater / Sleeper (2+2),2024-08-19 23:00:00,05h 30m,2024-08-20 04:30:00,4.1,285.0,31
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Awadh Travels,A/C Sleeper (2+2),2024-08-19 23:35:00,04h 45m,2024-08-20 04:20:00,3.1,435.0,34
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Lucky Travels,Bharat Benz A/C Seater / Sleeper (2+2),2024-08-19 23:55:00,05h 35m,2024-08-20 05:30:00,3.2,279.0,50
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Lucky Travels,Bharat Benz A/C Seater / Sleeper (2+2),2024-08-19 14:20:00,04h 30m,2024-08-19 18:50:00,2.8,299.0,52
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Shree Bawa Lal Ji Travels,A/C Seater / Sleeper (2+2),2024-08-19 15:30:00,05h 15m,2024-08-19 20:45:00,2.7,510.0,44
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Lucky Travels,A/C Sleeper (2+1),2024-08-19 15:50:00,05h 00m,2024-08-19 20:50:00,2.8,349.0,46
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-08-19 18:50:00,04h 50m,2024-08-19 23:40:00,2.2,555.0,18
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Harikesh Tour N Travels,A/C Seater (2+2),2024-08-19 20:00:00,05h 00m,2024-08-20 01:00:00,2.8,404.0,27
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,RATHORE TRAVELS AGENCY,A/C Seater / Sleeper (2+1),2024-08-19 14:30:00,05h 00m,2024-08-19 19:30:00,4.1,700.0,26
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Gajraj bus service,Bharat Benz A/C Sleeper (2+1),2024-08-19 18:30:00,05h 25m,2024-08-19 23:55:00,3.9,899.0,14
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Royal Golden,A/C Seater / Sleeper (2+2),2024-08-19 14:00:00,750h 00m,2024-09-19 20:00:00,1.8,600.0,35
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Vijay Tour and Travels,AC Sleeper (2+1),2024-08-19 14:30:00,05h 30m,2024-08-19 20:00:00,2.2,833.0,23
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Neeraj travels,A/C Seater / Sleeper (2+1),2024-08-19 15:40:00,04h 32m,2024-08-19 20:12:00,2.5,759.0,27
+Jammu to Amritsar,https://www.redbus.in/bus-tickets/jammu-to-amritsar,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),2024-08-19 17:15:00,04h 35m,2024-08-19 21:50:00,2.2,786.0,19
+Ajmer to Jammu,https://www.redbus.in/bus-tickets/ajmer-to-jammu,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),2024-08-19 15:00:00,17h 50m,2024-08-20 08:50:00,3.6,1295.0,12
