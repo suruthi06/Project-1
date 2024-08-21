@@ -7,8 +7,8 @@ connection = db.connect(
     host="localhost",
     user="root",
     port="3306",
-    password="root",
-    database="project"
+    password="****",
+    database="****"
 )
 writer = connection.cursor()
 
