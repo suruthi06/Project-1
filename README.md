@@ -83,5 +83,5 @@ Allow users to filter bus details by:
 -> Data Display: Filtered results will be shown in a tabular format, and users can click to view additional details such as seat availability and operator information.   
 
 ## Contact:   
-LinkedIn: https://www.linkedin.com/in/suruthi-boopalan/
+LinkedIn: https://www.linkedin.com/in/suruthi-boopalan/   
 Email: suruthipriya50@gmail.com   
